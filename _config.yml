@@ -10,7 +10,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.1684588
+typography_spectrum: 0.2034000053536147
 color:
   saturation: 0.9880178067833185
   brandStrength: 1
@@ -22,5 +22,5 @@ color:
     - '#939393'
     - '#6D6D6D'
   rhythmicContrast: 0.9710342704784125
-layout_spectrum: 0.3996416
+layout_spectrum: 0.08958129957318306
 name: AG OFFICIAL
