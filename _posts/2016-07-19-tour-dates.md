@@ -1,7 +1,7 @@
 ---
 description: 'August 4th, Celebrate Youth Festival. 12:00 P.M>'
-dateModified: '2016-07-19T05:43:20.238Z'
-datePublished: '2016-07-19T05:43:20.340Z'
+dateModified: '2016-07-19T05:59:48.078Z'
+datePublished: '2016-07-19T05:59:48.273Z'
 title: TOUR DATES
 author: []
 sourcePath: _posts/2016-07-19-tour-dates.md
