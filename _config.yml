@@ -1,43 +1,14 @@
-typography_spectrum: 0.09856631
+layout_spectrum: 0.5099663801956922
+typography_spectrum: 0.8156425873748958
 color:
-  saturation: 0.9880178067833185
-  brandStrength: 1
+  brandStrength: 0.9140775608830154
   lightness: 0.771256263833493
-  brandColors:
-    - '#000000'
-    - '#FFFFFF'
-    - '#C6C6C6'
-    - '#939393'
-    - '#6D6D6D'
+  saturation: 0.9880178067833185
   rhythmicContrast: 0.9710342704784125
-layout_spectrum: 0.3924731
-author:
-  name: Alex Gordon
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc1fd7d0-1eb1-4ee0-b85d-a5d955dd3922.jpg
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
 name: AG OFFICIAL
-navigation:
-  - id: 0fa92e0c-bec6-4a6f-8f77-6233f4190b48
-    url: 2016-07-19-ag.html
-    name: About Us
-    type: content
-  - id: 009678ee-f4aa-4329-aa8f-dbb892c9201f
-    url: 2016-07-19-tour-dates.html
-    name: TOUR DATES
-    type: content
-  - id: 4038887d-ef57-4fbf-88fb-c67bb8ba655b
-    url: 2016-07-19-4038887d-ef57-4fbf-88fb-c67bb8ba655b.html
-    name: Discography
-    type: content
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
