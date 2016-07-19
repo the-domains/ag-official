@@ -24,3 +24,8 @@ color:
   rhythmicContrast: 0.9710342704784125
 layout_spectrum: 0.3924731
 name: AG OFFICIAL
+navigation:
+  - id: ee871bd7-867c-492b-bcf8-02c574b596aa
+    url: 2016-07-19-tour-dates.html
+    name: TOUR DATES
+    type: content
