@@ -16,11 +16,7 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc1fd7d0-1eb1-4ee0-b85d-a5d955dd3922.jpg
 name: AG OFFICIAL
-navigation:
-  - id: ee871bd7-867c-492b-bcf8-02c574b596aa
-    url: 2016-07-19-tour-dates.html
-    name: TOUR DATES
-    type: content
+navigation: []
 collections:
   - index:
       path: /
