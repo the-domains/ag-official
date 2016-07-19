@@ -25,6 +25,10 @@ navigation:
     url: 2016-07-19-tour-dates.html
     name: TOUR DATES
     type: content
+  - id: 4038887d-ef57-4fbf-88fb-c67bb8ba655b
+    url: 2016-07-19-4038887d-ef57-4fbf-88fb-c67bb8ba655b.html
+    name: Discography
+    type: content
 collections:
   - index:
       path: /
