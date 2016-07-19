@@ -21,6 +21,10 @@ navigation:
     url: 2016-07-19-ag.html
     name: About Us
     type: content
+  - id: 009678ee-f4aa-4329-aa8f-dbb892c9201f
+    url: 2016-07-19-tour-dates.html
+    name: TOUR DATES
+    type: content
 collections:
   - index:
       path: /
