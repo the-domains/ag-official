@@ -16,7 +16,11 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc1fd7d0-1eb1-4ee0-b85d-a5d955dd3922.jpg
 name: AG OFFICIAL
-navigation: []
+navigation:
+  - id: 0fa92e0c-bec6-4a6f-8f77-6233f4190b48
+    url: 2016-07-19-ag.html
+    name: About Us
+    type: content
 collections:
   - index:
       path: /
