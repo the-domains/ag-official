@@ -10,7 +10,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.2034000053536147
+typography_spectrum: 0.09856631
 color:
   saturation: 0.9880178067833185
   brandStrength: 1
@@ -22,5 +22,10 @@ color:
     - '#939393'
     - '#6D6D6D'
   rhythmicContrast: 0.9710342704784125
-layout_spectrum: 0.08958129957318306
+layout_spectrum: 0.3924731
 name: AG OFFICIAL
+navigation:
+  - id: ee871bd7-867c-492b-bcf8-02c574b596aa
+    url: 2016-07-19-tour-dates.html
+    name: TOUR DATES
+    type: content
