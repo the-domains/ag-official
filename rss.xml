@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[AG OFFICIAL]]></title>
-        <description><![CDATA[AG OFFICIAL]]></description>
+        <title><![CDATA[AG OFFICIAL PAGE]]></title>
+        <description><![CDATA[AG OFFICIAL PAGE]]></description>
         <link>https://thegrid.ai/ag-official/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 06:00:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2016 16:36:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ag-official/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[AG]]></title>
+            <description><![CDATA[<article><h1>AG</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f66bc596-3aa8-477d-8c75-9b0faa043c55.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/f66bc596-3aa8-477d-8c75-9b0faa043c55.jpg</link>
+            <guid isPermaLink="false">2118326d-632c-4ca3-9548-6499c650205e</guid>
+            <pubDate>Tue, 26 Jul 2016 16:36:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[AG - Diamonds]]></title>
             <description><![CDATA[<article><h1>AG - Diamonds</h1><p>Diamonds by AG. Copyright (C) 2016 Actress Records.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bcea3547ae6d51b547564a4ffccac25f/croprotate.jpg?cropheight=720&cropwidth=721&degrees=0&input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FZdwB0VtmIK4%2Fmaxresdefault.jpg&x=280&y=0"></article>]]></description>
